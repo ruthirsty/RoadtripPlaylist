@@ -1,9 +1,5 @@
 SONG - ARTIST
 =============
-The Final Countdown - Europe
-Wiskey in the Jar - Metallica
-Twisting the Night Away - Sam Cooke
-Moonlight on Vermont - Frank Sinatra
 I Got My Mind Set On You - George Harrison
 Dear Jude - Beatles
 Helter Skelter - Beatles
