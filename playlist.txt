@@ -1,9 +1,5 @@
 SONG - ARTIST
 =============
-The Final Countdown - Europe
-Wiskey in the Jar - Metallica
-Twisting the Night Away - Sam Cooke
-Moonlight on Vermont - Frank Sinatra
 I Got My Mind Set On You - George Harrison
 La Bamba - Richie Valens
 Great Balls of Fire - Jerry Lee Lewis
@@ -19,3 +15,5 @@ Ebeneezer Goode - Shamen
 Going in For the Kill - La Roux
 Northern Star - The Dogs of Furniture
 Break Out - The Dogs of Furniture
+Dear Jude - Beatles
+Helter Skelter - Beatles
